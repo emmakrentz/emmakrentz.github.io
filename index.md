@@ -18,7 +18,7 @@
 ---
 
 ### Data Visualization Projects
-[Album Lyric Analysis](/sample_page)
+[Album Lyric Analysis](/[sample_page](https://github.com/emmakrentz/albumanalysis))
 <img src="images/screenshot 6.png?raw=true"/>
 
 ---

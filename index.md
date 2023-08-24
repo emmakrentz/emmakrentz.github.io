@@ -10,24 +10,29 @@
 
 ---
 [SF Library Checkout Model](https://github.com/emmakrentz/sflibrary)
+<br>
 <img src="images/1.png?raw=true"/>
 
 ---
 [Underground Music Recommendation Engine](http://example.com/)
+<br>
 <img src="images/3.png?raw=true"/>
 
 ---
 
 ### Data Visualization Projects
 [Album Lyric Analysis](https://github.com/emmakrentz/albumanalysis)
+<br>
 <img src="images/6.png?raw=true"/>
 
 ---
 [SF Food Truck Mapping](https://github.com/emmakrentz/foodtruck)
+<br>
 <img src="images/4.png?raw=true"/>
 
 ---
 [Optimal Scrabble Tile Distribution](https://github.com/emmakrentz/scrabble)
+<br>
 <img src="images/5.png?raw=true"/>
 
 

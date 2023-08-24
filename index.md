@@ -4,11 +4,11 @@
 
 ### Machine Learning Projects 
 
-[Concert Setlist Prediction Model](/sample_page)
+[Concert Setlist Prediction Model](https://github.com/emmakrentz/setlist)
 <img src="images/screenshot 6.png?raw=true"/>
 
 ---
-[SF Library Checkout Model](/pdf/sample_presentation.pdf)
+[SF Library Checkout Model](https://github.com/emmakrentz/sflibrary)
 <img src="images/download.png?raw=true"/>
 
 ---
@@ -22,11 +22,11 @@
 <img src="images/screenshot 6.png?raw=true"/>
 
 ---
-[SF Food Truck Mapping](/pdf/sample_presentation.pdf)
+[SF Food Truck Mapping](https://github.com/emmakrentz/foodtruck)
 <img src="images/Screenshot 2023-02-10 at 10.14.32 AM.png?raw=true"/>
 
 ---
-[Optimal Scrabble Tile Distribution](http://example.com/)
+[Optimal Scrabble Tile Distribution](https://github.com/emmakrentz/scrabble)
 <img src="images/scrabble.png?raw=true"/>
 
 

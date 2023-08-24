@@ -1,12 +1,13 @@
 title: Emma Krentz # your name (or website title) here
 logo: "/images/Screen Shot 2022-08-08 at 10.48.44 AM.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
   data scientist, rock climber, jeopardy! enthusiast
   <br><br>
   <a href="https://www.linkedin.com/in/emma-krentz/">LinkedIn</a> 
-  <br><br>
+  <br>
   <a href="https://github.com/emmakrentz/">GitHub</a> 
-  <br><br>
+  <br>
   <a href="https://emma-k.medium.com/">Medium</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0

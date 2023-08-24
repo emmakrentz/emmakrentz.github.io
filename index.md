@@ -1,31 +1,34 @@
-## Portfolio
+## Project Portfolio
 
 ---
 
-### Category Name 1 
+### Machine Learning Projects 
 
-[Project 1 Title](/sample_page)
+[Concert Setlist Prediction Model](/sample_page)
 <img src="images/screenshot 6.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[SF Library Checkout Model](/pdf/sample_presentation.pdf)
+<img src="images/download.png?raw=true"/>
+
+---
+[Underground Music Recommendation Engine](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Data Visualization Projects
+[Album Lyric Analysis](/sample_page)
+<img src="images/screenshot 6.png?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[SF Food Truck Mapping](/pdf/sample_presentation.pdf)
+<img src="images/Screenshot 2023-02-10 at 10.14.32 AM.png?raw=true"/>
 
 ---
+[Optimal Scrabble Tile Distribution](http://example.com/)
+<img src="images/scrabble.png?raw=true"/>
+
 
 
 

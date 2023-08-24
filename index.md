@@ -6,8 +6,8 @@
 
 [Concert Setlist Prediction Model](https://github.com/emmakrentz/setlist)
 <img src="images/2.png?raw=true"
-  width = "500"
-  height = "250"
+  width = "800"
+  height = "400"
   />
 
 ---

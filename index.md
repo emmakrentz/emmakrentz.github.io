@@ -5,7 +5,10 @@
 ### Machine Learning Projects 
 
 [Concert Setlist Prediction Model](https://github.com/emmakrentz/setlist)
-<img src="images/2.png?raw=true"/>
+<img src="images/2.png?raw=true"
+  width = "500"
+  height = "250"
+  />
 
 ---
 [SF Library Checkout Model](https://github.com/emmakrentz/sflibrary)
@@ -13,7 +16,7 @@
 
 ---
 [Underground Music Recommendation Engine](http://example.com/)
-<img src="images/3.jpg?raw=true"/>
+<img src="images/3.png?raw=true"/>
 
 ---
 

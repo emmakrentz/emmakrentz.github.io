@@ -32,7 +32,7 @@
 ---
 [Optimal Scrabble Tile Distribution](https://github.com/emmakrentz/scrabble)
 <br><br>
-<img src="images/5.png?raw=true"/>
+<img src="images/scrabble.png?raw=true"/>
 
 
 ---

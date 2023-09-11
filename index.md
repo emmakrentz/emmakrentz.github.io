@@ -4,17 +4,18 @@
 
 ### Machine Learning & Data Science Projects 
 
+[Concert Setlist Prediction Model](https://github.com/emmakrentz/setlist)
+<br><br>
+<img src="images/correlation pt 2.png?raw=true"/>
+
+---
+
 [Underground Music Recommendation Engine](https://medium.com/@emma-k/underground-music-recommendation-system-29c4580a4ddf)
 <br><br>
 <img src="images/audio features 2.png?raw=true"/>
 
 ---
 
-[Concert Setlist Prediction Model](https://github.com/emmakrentz/setlist)
-<br><br>
-<img src="images/correlation pt 2.png?raw=true"/>
-
----
 
 [SF Library Checkout Model](https://github.com/emmakrentz/sflibrary)
 <br><br>

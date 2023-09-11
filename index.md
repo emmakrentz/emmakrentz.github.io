@@ -19,14 +19,14 @@
 
 [SF Library Checkout Model](https://github.com/emmakrentz/sflibrary)
 <br><br>
-<img src="images/1.png?raw=true"/>
+<img src="images/screenshot 33.png?raw=true"/>
 
 ---
 
 ### Data Visualization Projects
 [Album Lyric Analysis](https://github.com/emmakrentz/albumanalysis)
 <br><br>
-<img src="images/6.png?raw=true"/>
+<img src="images/Lover_wordcloud.png?raw=true"/>
 
 
 ---

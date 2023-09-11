@@ -26,7 +26,7 @@
 ### Data Visualization Projects
 [Album Lyric Analysis](https://github.com/emmakrentz/albumanalysis)
 <br><br>
-<img src="images/Lover_wordcloud.png?raw=true"/>
+<img src="images/screenshot 6.png?raw=true"/>
 
 
 ---

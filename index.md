@@ -34,7 +34,7 @@
 ### Robotics Projects
 [Computer Vision Cat-Sprayer](https://github.com/emmakrentz/albumanalysis)
 <br><br>
-<img src="images/screenshot 6.png?raw=true"/>
+<img src="images/View recent photos.jpeg?raw=true"/>
 
 
 

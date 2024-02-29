@@ -23,22 +23,18 @@
 
 ---
 
-### Data Visualization Projects
+
 [Album Lyric Analysis](https://github.com/emmakrentz/albumanalysis)
 <br><br>
 <img src="images/screenshot 6.png?raw=true"/>
 
 
 ---
-[Optimal Scrabble Tile Distribution](https://github.com/emmakrentz/scrabble)
-<br><br>
-<img src="images/scrabble.png?raw=true"/>
 
-
----
-[SF Food Truck Mapping](https://github.com/emmakrentz/foodtruck)
+### Robotics Projects
+[Computer Vision Cat-Sprayer](https://github.com/emmakrentz/albumanalysis)
 <br><br>
-<img src="images/4.png?raw=true"/>
+<img src="images/screenshot 6.png?raw=true"/>
 
 
 

@@ -2,7 +2,7 @@
 
 ---
 ### Robotics Projects
-[Computer Vision Cat-Sprayer]((https://github.com/emmakrentz/cat-sprayer))
+[Computer Vision Cat-Sprayer](https://github.com/emmakrentz/cat-sprayer)
 <br><br>
 <img src="images/View recent photos.jpeg?raw=true"/>
 

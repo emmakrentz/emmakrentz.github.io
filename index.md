@@ -6,6 +6,11 @@
 <br><br>
 <img src="images/View recent photos.jpeg?raw=true"/>
 
+---
+[Pavlov's Piano](https://github.com/emmakrentz/pavlov)
+<br><br>
+<img src="images/IMG_4323?raw=true"/>
+
 
 ---
 

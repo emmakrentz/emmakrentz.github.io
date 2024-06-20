@@ -9,7 +9,7 @@
 ---
 [Pavlov's Piano](https://github.com/emmakrentz/pavlov)
 <br><br>
-<img src="images/IMG_4323?raw=true"/>
+<img src="images/IMG_4323.jpg?raw=true"/>
 
 
 ---

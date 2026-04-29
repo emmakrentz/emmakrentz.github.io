@@ -21,7 +21,7 @@
 ---
 [Real-Time Language Tutor](https://github.com/emmakrentz/language_buddy)
 <br><br>
-<img src="Screenshot 2026-04-28 at 10.57.05 PM.png?raw=true"/>
+<img src="images/Screenshot 2026-04-28 at 10.57.05 PM.png?raw=true"/>
 
 ---
 

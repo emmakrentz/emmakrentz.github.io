@@ -1,17 +1,12 @@
 ## Project Portfolio
 ---
-### Robotics Projects
-[Computer Vision Cat-Sprayer](https://github.com/emmakrentz/cat-sprayer)
+### AI Safety & Alignment Projects
+[Hi-Vis Attack Jailbreak](https://medium.com/@emma-k/a-new-jailbreak-the-hi-vis-attack-26c2f7ec6da6)
 <br><br>
-<img src="images/View recent photos.jpeg?raw=true"/>
+<img src="images/Screenshot 2026-05-01 at 12.26.03 PM.png?raw=true"/>
+
 
 ---
-[Pavlov's Piano](https://github.com/emmakrentz/pavlov)
-<br><br>
-<img src="images/IMG_4323.jpg?raw=true"/>
-
----
-
 ### AI & Machine Learning Projects 
 
 [Spotify Unwrapped](https://github.com/emmakrentz/unwrapped)
@@ -31,6 +26,18 @@
 
 
 ---
+### Robotics Projects
+[Computer Vision Cat-Sprayer](https://github.com/emmakrentz/cat-sprayer)
+<br><br>
+<img src="images/View recent photos.jpeg?raw=true"/>
+
+---
+[Pavlov's Piano](https://github.com/emmakrentz/pavlov)
+<br><br>
+<img src="images/IMG_4323.jpg?raw=true"/>
+
+---
+
 
 
 ---
